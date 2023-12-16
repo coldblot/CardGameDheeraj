@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638371221767405962
-    m_Hash: 1672903005
+      ticks: 638383267886287694
+    m_Hash: 3839676508
   m_LockFileStatus:
     m_FilePath: D:/UnityMutliplayerC#/UnityMultiplayerSocketC#/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638371221767738822
-    m_Hash: 2812915458
+      ticks: 638383267886297774
+    m_Hash: 3113434520
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -356,10 +356,12 @@ m_ResolvedPackages:
     - 3.0.24
     - 3.0.25
     - 3.0.26
+    - 3.0.27
     compatible:
     - 3.0.25
     - 3.0.26
-    verified: 3.0.26
+    - 3.0.27
+    verified: 3.0.27
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
